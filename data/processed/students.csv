@@ -1,0 +1,101 @@
+student_id,skill_level,preferred_subject,learning_goal
+1,Advanced,Math,Skill Development
+2,Beginner,AI,Skill Development
+3,Intermediate,Math,Exam
+4,Beginner,AI,Exam
+5,Advanced,Programming,Career
+6,Advanced,Science,Skill Development
+7,Advanced,Programming,Exam
+8,Intermediate,Science,Skill Development
+9,Intermediate,Programming,Career
+10,Beginner,AI,Skill Development
+11,Intermediate,Math,Exam
+12,Advanced,Math,Exam
+13,Advanced,Science,Exam
+14,Beginner,AI,Career
+15,Advanced,Math,Exam
+16,Intermediate,Math,Exam
+17,Beginner,Programming,Skill Development
+18,Advanced,Science,Career
+19,Advanced,Science,Skill Development
+20,Beginner,Programming,Skill Development
+21,Advanced,Math,Exam
+22,Beginner,Programming,Career
+23,Intermediate,AI,Skill Development
+24,Advanced,Programming,Exam
+25,Beginner,Science,Exam
+26,Advanced,Programming,Exam
+27,Beginner,Math,Skill Development
+28,Beginner,Programming,Skill Development
+29,Intermediate,Math,Exam
+30,Advanced,Science,Exam
+31,Intermediate,Math,Career
+32,Intermediate,Programming,Career
+33,Beginner,Science,Exam
+34,Intermediate,AI,Career
+35,Advanced,Math,Career
+36,Advanced,Science,Career
+37,Intermediate,Programming,Skill Development
+38,Advanced,AI,Skill Development
+39,Advanced,AI,Skill Development
+40,Beginner,AI,Career
+41,Advanced,Science,Exam
+42,Advanced,AI,Career
+43,Intermediate,Math,Exam
+44,Intermediate,AI,Career
+45,Beginner,Science,Career
+46,Beginner,AI,Exam
+47,Advanced,AI,Skill Development
+48,Advanced,Math,Exam
+49,Advanced,AI,Career
+50,Beginner,Programming,Exam
+51,Advanced,AI,Career
+52,Intermediate,Science,Skill Development
+53,Beginner,Math,Career
+54,Beginner,Math,Exam
+55,Beginner,AI,Career
+56,Beginner,Math,Skill Development
+57,Intermediate,Programming,Skill Development
+58,Beginner,Programming,Skill Development
+59,Beginner,AI,Exam
+60,Advanced,AI,Career
+61,Intermediate,AI,Exam
+62,Intermediate,Math,Exam
+63,Beginner,Math,Career
+64,Intermediate,Math,Career
+65,Intermediate,Science,Skill Development
+66,Beginner,Science,Skill Development
+67,Beginner,Math,Skill Development
+68,Beginner,Programming,Exam
+69,Beginner,AI,Skill Development
+70,Beginner,Math,Exam
+71,Beginner,Programming,Skill Development
+72,Advanced,Science,Exam
+73,Beginner,Science,Exam
+74,Intermediate,AI,Skill Development
+75,Advanced,AI,Career
+76,Advanced,Math,Exam
+77,Beginner,Science,Skill Development
+78,Intermediate,Science,Career
+79,Advanced,AI,Exam
+80,Advanced,Science,Exam
+81,Advanced,Science,Career
+82,Intermediate,Science,Skill Development
+83,Intermediate,Math,Exam
+84,Beginner,Programming,Skill Development
+85,Intermediate,Science,Career
+86,Beginner,Math,Skill Development
+87,Beginner,AI,Skill Development
+88,Beginner,Science,Career
+89,Beginner,Programming,Skill Development
+90,Intermediate,Programming,Career
+91,Intermediate,Programming,Career
+92,Beginner,Programming,Exam
+93,Advanced,AI,Skill Development
+94,Advanced,Science,Skill Development
+95,Advanced,Programming,Skill Development
+96,Advanced,AI,Career
+97,Advanced,Math,Career
+98,Intermediate,Programming,Exam
+99,Intermediate,Math,Exam
+100,Beginner,AI,Exam
